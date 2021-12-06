@@ -9,9 +9,7 @@ Du'a Jaradat
 
 ## Links and Resources
 
-- [Automation Code]()
-- [Pull Request](https://github.com/duajaradat/pythonisms
-/pull/1)
+- [Pull Request](https://github.com/duajaradat/pythonisms/pull/1)
 
 ---
 
