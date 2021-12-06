@@ -3,7 +3,7 @@ class Node:
         self.value = value
         self.next = next
 
-class linkedList:
+class LinkedList:
     def __init__(self, collection=None):
         self.head = None
         if collection :
@@ -27,7 +27,7 @@ class linkedList:
         for i, item in enumerate(self.head):
             if i == index:
                 return item
-        
+
     def __iter__(self):
         def  generator():
             current = self.head
