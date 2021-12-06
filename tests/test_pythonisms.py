@@ -1,4 +1,8 @@
 from pythonisms import __version__
+from pythonisms.pythonisms import *
+
+
+
 
 
 def test_version():
